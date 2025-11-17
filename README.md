@@ -2,13 +2,9 @@
 
 Aula sobre Pull-Request
 
+# Primeiro Titulo
 
-
-\#Primeiro Titulo
-
-
-
-\##Equipe
+## Equipe
 
 Andre Thiesen da Rosa
 
